@@ -19,7 +19,7 @@ Este repositório contém um desafio de análise de dados e Machine Learning uti
 Você pode baixar este repositório clicando em **Code > Download ZIP** ou clonando com Git:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/andrepraz/dio-desafio-pyhton-ml
 ```
 
 ## Links Úteis
